@@ -1,0 +1,1 @@
+# iframe-scanner-anonymous-style
